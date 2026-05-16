@@ -28,8 +28,3 @@ The goal of this project is to understand how Node.js works by practicing core b
 - HTTP module
 - File System module
 
-## Run
-
-```bash
-npm install
-npm run dev
